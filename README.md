@@ -33,3 +33,8 @@ input "KEYBOARD_ID" {
 
 
 See also: [SSLayer - оптимизированный слой символов.](https://github.com/LearnBeFree/SSLayer)
+
+# TODO:
+
+- Add software integration configs
+- Add a section "why should I bother installing additional layout on the os"
